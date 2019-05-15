@@ -2,6 +2,8 @@
 
 **another repo edit bold**
 
+__third repo edit bold__
+
 test
 
 Edit after cloning via GitHub desktop.
