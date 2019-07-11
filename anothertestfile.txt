@@ -9,6 +9,4 @@ an edit via GitHub editor
 
 5/2 edit
 
-6/5 edit
-
-6/30 edit
+remove conflict
